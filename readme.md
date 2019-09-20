@@ -14,7 +14,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 ## Creational Patern (Pola Pembuatan)
 - [Singleton](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Patern/Singleton) 
 - [Builder](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Patern/Builder)
-- Factory Method
+- [Factory Method](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Patern/Factory%20Method)
 - Abstract Factory
 - Prototype 
 ## Behavioral Pattern (Pola Perilaku)
@@ -43,5 +43,6 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 3. [memahami-design-pattern-dalam-oop-di-php](https://undebugable.wordpress.com/2018/12/07/memahami-design-pattern-dalam-oop-di-php/)
 4. [DesignPatternsPHP-github](https://github.com/domnikl/DesignPatternsPHP)
 5. [Design-Patern-gak-penting-tapi-butuh-dan-harus-mengerti](https://www.youtube.com/watch?v=zD-bTMojnaM&list=PL-CtdCApEFH_yiziXrQeogYOJzCmD8XLM)
+6. [Source-Making-Advance-design-patern](https://sourcemaking.com/design_patterns)
 # Author
 &copy; [triabagus](https://github.com/triabagus/roadmap-backend)

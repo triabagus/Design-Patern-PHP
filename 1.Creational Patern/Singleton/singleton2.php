@@ -17,22 +17,22 @@ final class Singleton
     }
 
     /**
-     * is not allowed to call from outside to prevent from creating multiple instances,
-     * to use the singleton, you have to obtain the instance from Singleton::getInstance() instead
+     * tidak diizinkan untuk menelepon dari luar untuk mencegah dari membuat banyak instance,
+     * untuk menggunakan singleton, Anda harus mendapatkan instance dari Singleton :: getInstance () sebagai gantinya
      */
     private function __construct()
     {
     }
 
     /**
-     * prevent the instance from being cloned (which would create a second instance of it)
+     * mencegah instance dikloning (yang akan membuat instance kedua darinya)
      */
     private function __clone()
     {
     }
 
     /**
-     * prevent from being unserialized (which would create a second instance of it)
+     * mencegah dari tidak di-serialisasi (yang akan membuat instance kedua dari itu)
      */
     private function __wakeup()
     {

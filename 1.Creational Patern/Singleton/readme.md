@@ -8,6 +8,8 @@ Kelas yang memakan sumber daya adalah kelas yang mungkin memperlambat situs web 
 2. Beberapa kelas yang mendeteksi perangkat seluler mungkin memperlambat situs web kami.
 3. Membuat koneksi dengan database memakan waktu dan memperlambat aplikasi kami.
 
+![alt text](https://github.com/triabagus/Design-Patern-PHP/blob/master/1.Creational%20Patern/Singleton/the-singleton-pattern-explained.png)
+
 # Reverensi
 1. [the-singleton-design-pattern-in-php](https://phpenthusiast.com/blog/the-singleton-design-pattern-in-php)
 2. [singleton-patern-php](https://www.youtube.com/watch?v=jS9lOKqKTc4)

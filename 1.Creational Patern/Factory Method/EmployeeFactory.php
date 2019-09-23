@@ -9,7 +9,7 @@ class EmployeeFactory{
 
     static function createStaff($name):Employee
     {
-        return new Employee($name, "Staff", 5000000);
+        return new Employee($name, "Staff", 500000);
     }
     
 }

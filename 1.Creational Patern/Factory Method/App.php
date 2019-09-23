@@ -6,8 +6,8 @@
 $manager1 = new Employee("Tria","Manager",1000000);
 $manager2 = new Employee("Bagus","Manager",1000000);
 
-$staff1   = new Employee("Joko","Staff",50000);
-$staff2   = new Employee("Heri","Staff",50000);
+$staff1   = new Employee("Joko","Staff",500000);
+$staff2   = new Employee("Heri","Staff",500000);
 
 // Make object with EmployeeFactory
 $manager1 = EmployeeFactory::createManager("Tria");
@@ -24,8 +24,8 @@ $cat    = new Cat();
 $dog    = new Dog();
 
 // Make Object AnimalFactory
-$tiger  = AnimalFactory("tiger");
-$cat    = AnimalFactory("cat");
-$dog    = AnimalFactory("dog");
+$tiger  = AnimalFactory::create("tiger");
+$cat    = AnimalFactory::create("cat");
+$dog    = AnimalFactory::create("dog");
 
 // Untungnya kalau class tiger nya tidak digunakan lagi (deprecated) dan digantikan class lainnya, kita tidak perlu repot-repot untuk menganti semua class tiger tadi.Cukup kita mengantinya di AnimalFactory.

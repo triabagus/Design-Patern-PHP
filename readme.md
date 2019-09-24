@@ -12,11 +12,12 @@ Cara codingnya berbeda-beda tergantung teknologi dan bahasa pemprograman yang di
 Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" oleh Gang of Four, dijelaskan terdapat 23 macam pola atau pattern. Pola tersebut dibagi menjadi 3 bagian utama sesuai dengan kegunaannya
 ![alt text](https://github.com/triabagus/Design-Patern-PHP/blob/master/image/macam-design-patern.png)
 ## Creational Patern (Pola Pembuatan)
-- [Singleton](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Patern/Singleton) 
-- [Builder](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Patern/Builder)
-- [Factory Method](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Patern/Factory%20Method)
-- [Abstract Factory](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Patern/Abstract%20Factory)
-- [Prototype](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Patern/Prototype) 
+- [Singleton](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Singleton) 
+- [Builder](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Builder)
+- [Factory Method](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Factory%20Method)
+- [Abstract Factory](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Abstract%20Factory)
+- [Prototype](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Prototype) 
+- Object Pool
 ## Behavioral Pattern (Pola Perilaku)
 - Template Method
 - Strategy
@@ -37,6 +38,10 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - Facade
 - Flyweight
 - Bridge
+
+## Additional Structure Patern (Pola Structure Tambahan)
+
+- Repository
 # Reverensi
 1. [design-patern-php-read](https://designpatternsphp.readthedocs.io/en/latest/Creational/AbstractFactory/README.html)
 2. [Apa-itu-Design-Pattern](http://maulidangames.com/artikel/Mengenal-Design-Pattern/64.html)

@@ -17,6 +17,15 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - [Factory Method](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Factory%20Method)
 - [Abstract Factory](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Abstract%20Factory)
 - [Prototype](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Prototype) 
+## Structural Pattern (Pola Struktural)
+- [Adapter](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Adapter)
+- Composite
+- Decorator
+- Proxy
+- Facade
+- Flyweight
+- Bridge
+
 ## Behavioral Pattern (Pola Perilaku)
 - Template Method
 - Strategy
@@ -29,14 +38,6 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - Chain of Responsibility
 - Interpreter
 - Visitor
-## Structural Pattern (Pola Struktural)
-- Adapter
-- Composite
-- Decorator
-- Proxy
-- Facade
-- Flyweight
-- Bridge
 
 ## Additional Structure Patern (Pola Structure Tambahan)
 

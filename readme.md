@@ -17,7 +17,6 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - [Factory Method](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Factory%20Method)
 - [Abstract Factory](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Abstract%20Factory)
 - [Prototype](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Prototype) 
-- Object Pool
 ## Behavioral Pattern (Pola Perilaku)
 - Template Method
 - Strategy
@@ -41,6 +40,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 
 ## Additional Structure Patern (Pola Structure Tambahan)
 
+- [Object Pool | Creational Patern](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Object%20Pool)
 - Repository
 # Reverensi
 1. [design-patern-php-read](https://designpatternsphp.readthedocs.io/en/latest/Creational/AbstractFactory/README.html)

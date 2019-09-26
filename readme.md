@@ -42,7 +42,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 ## Additional Structure Patern (Pola Structure Tambahan)
 
 - [Object Pool | Creational Patern](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Object%20Pool)
-- Repository
+- Repository | Data Access Object
 # Reverensi
 1. [design-patern-php-read](https://designpatternsphp.readthedocs.io/en/latest/Creational/AbstractFactory/README.html)
 2. [Apa-itu-Design-Pattern](http://maulidangames.com/artikel/Mengenal-Design-Pattern/64.html)

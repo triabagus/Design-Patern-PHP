@@ -4,17 +4,21 @@ abstract class TemplateAbstract {
     //the template method 
     //  sets up a general algorithm for the whole class 
     public final function showBookTitleInfo($book_in) {
+
         $title = $book_in->getTitle();
         $author = $book_in->getAuthor();
         $processedTitle = $this->processTitle($title);
         $processedAuthor = $this->processAuthor($author);
+
         if (NULL == $processedAuthor) {
             $processed_info = $processedTitle;
         } else {
             $processed_info = $processedTitle.' by '.$processedAuthor;
         }
+
         return $processed_info;
     }
+
     //the primitive operation
     //  this function must be overridden
     abstract function processTitle($title);
@@ -44,12 +48,15 @@ class TemplateStars extends TemplateAbstract {
 class Book {
     private $author;
     private $title;
+
     function __construct($title_in, $author_in) {
         $this->author = $author_in;
         $this->title  = $title_in;
     }
+
     function getAuthor() {return $this->author;}
     function getTitle() {return $this->title;}
+    
     function getAuthorAndTitle() {
         return $this->getTitle() . ' by ' . $this->getAuthor();
     }

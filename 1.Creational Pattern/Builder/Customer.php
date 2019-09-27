@@ -1,32 +1,12 @@
 <?php
 class Customer{
-    /**
-     * @var string
-     */
-
     private $id;
-
-    /**
-     * @var string
-     */
 
     private $firtsName;
 
-    /**
-     * @var string
-     */  
-
     private $lastName;
 
-    /**
-     * @var string
-     */
-
     private $email;
-
-    /**
-     * @var string
-     */
 
     private $phone;
 

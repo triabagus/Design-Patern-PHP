@@ -27,7 +27,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - Bridge
 
 ## Behavioral Pattern (Pola Perilaku)
-- Template Method
+- [Template Method](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Template%20Method)
 - Strategy
 - Command
 - Memento

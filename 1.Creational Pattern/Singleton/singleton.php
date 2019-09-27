@@ -21,12 +21,12 @@ class Database {
     }
 }
 
-// $db = new Database();
+// $db  = new Database();
 // $db1 = new Database();
 // $db2 = new Database();
 // $db3 = new Database();
 
-$db = Database::getInstance();
+$db  = Database::getInstance();
 $db1 = Database::getInstance();
 $db2 = Database::getInstance();
 $db3 = Database::getInstance();

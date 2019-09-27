@@ -19,7 +19,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - [Prototype](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Prototype) 
 ## Structural Pattern (Pola Struktural)
 - [Adapter](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Adapter)
-- Composite
+- [Composite](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Composite)
 - Decorator
 - Proxy
 - Facade

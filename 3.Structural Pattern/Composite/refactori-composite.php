@@ -132,9 +132,9 @@ abstract class FieldComposite extends FormElement
     }
 
     /**
-     * The base implementation of the Composite's rendering simply combines
-     * results of all children. Concrete Composites will be able to reuse this
-     * implementation in their real rendering implementations.
+     * Implementasi dasar dari rendering Komposit hanya menggabungkan
+     * rhasil semua anak.Concrete Composites akan dapat menggunakan kembali ini
+     * implementasi dalam implementasi rendering nyata mereka.
      */
     public function render(): string
     {
@@ -149,14 +149,14 @@ abstract class FieldComposite extends FormElement
 }
 
 /**
- * The fieldset element is a Concrete Composite.
+ * Elemen fieldset adalah Concrete Composite.
  */
 class Fieldset extends FieldComposite
 {
     public function render(): string
     {
-        // Note how the combined rendering result of children is incorporated
-        // into the fieldset tag.
+        // Perhatikan bagaimana hasil render gabungan anak-anak dimasukkan
+        // ke dalam tag fieldset.
         $output = parent::render();
         
         return "<fieldset><legend>{$this->title}</legend>\n$output</fieldset>\n";
@@ -164,7 +164,7 @@ class Fieldset extends FieldComposite
 }
 
 /**
- * And so is the form element.
+ * Dan begitu juga elemen bentuk.
  */
 class Form extends FieldComposite
 {
@@ -184,7 +184,7 @@ class Form extends FieldComposite
 }
 
 /**
- * The client code gets a convenient interface for building complex tree
+ * Kode klien mendapatkan antarmuka yang nyaman untuk membangun pohon kompleks
  * structures.
  */
 function getProductForm(): FormElement
@@ -202,9 +202,9 @@ function getProductForm(): FormElement
 }
 
 /**
- * The form structure can be filled with data from various sources. The Client
- * doesn't have to traverse through all form fields to assign data to various
- * fields since the form itself can handle that.
+ * Struktur formulir dapat diisi dengan data dari berbagai sumber. Klien
+ * tidak harus melintasi semua bidang formulir untuk menetapkan data ke berbagai
+ * bidang karena formulir itu sendiri dapat mengatasinya.
  */
 function loadProductData(FormElement $form)
 {
@@ -221,9 +221,9 @@ function loadProductData(FormElement $form)
 }
 
 /**
- * The client code can work with form elements using the abstract interface.
- * This way, it doesn't matter whether the client works with a simple component
- * or a complex composite tree.
+ *Kode klien dapat bekerja dengan elemen formulir menggunakan antarmuka abstrak.  
+ * Dengan cara ini, tidak masalah apakah klien bekerja dengan komponen sederhana  
+ * atau pohon komposit yang kompleks.
  */
 function renderProduct(FormElement $form)
 {

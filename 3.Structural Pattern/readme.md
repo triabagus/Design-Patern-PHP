@@ -4,7 +4,7 @@ merupakan pola yang digunakan untuk mensolusikan permasalahan yang ditemui dalam
 - [Adapter](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Adapter)
 - [Composite](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Composite)
 - [Decorator](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Decorator)
-- Proxy
+- [Proxy](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Proxy)
 - Facade
 - Flyweight
 - Bridge

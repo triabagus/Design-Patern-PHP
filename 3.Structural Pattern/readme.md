@@ -5,6 +5,6 @@ merupakan pola yang digunakan untuk mensolusikan permasalahan yang ditemui dalam
 - [Composite](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Composite)
 - [Decorator](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Decorator)
 - [Proxy](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Proxy)
-- Facade
+- [Facade](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Facade)
 - Flyweight
 - Bridge

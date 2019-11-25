@@ -15,5 +15,6 @@ Bayangkan Anda harus membuat kode Anda berfungsi dengan serangkaian objek luas y
 Akibatnya, logika bisnis kelas Anda akan menjadi sangat erat dengan detail implementasi kelas pihak ketiga, sehingga sulit untuk dipahami dan dipelihara.
 
 ## Reverensi 
-[php example facde design pattern](https://refactoring.guru/design-patterns/facade/php/example#example-0)
-[video facade design pattern](https://www.youtube.com/watch?v=DKMT1HStrD0)
+
+- [php example facade design pattern](https://refactoring.guru/design-patterns/facade/php/example#example-0)
+- [video facade design pattern](https://www.youtube.com/watch?v=DKMT1HStrD0)

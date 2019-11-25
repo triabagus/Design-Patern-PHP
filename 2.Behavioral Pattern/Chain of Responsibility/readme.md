@@ -17,3 +17,4 @@ Pola menunjukkan bahwa anda menautkan penangan ini ke rantai, selain memproses p
 
 # Reverensi 
 - [Chain of Responsibility](https://refactoring.guru/design-patterns/chain-of-responsibility)
+- [Example Code PHP](https://github.com/ehsangazar/design-patterns-php/blob/master/behavioral-patterns/chain-of-responsibility.php)

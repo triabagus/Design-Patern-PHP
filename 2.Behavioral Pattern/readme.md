@@ -3,7 +3,7 @@ merupakan pola yang digunakan untuk mensolusikan permasahalan yang ditemui dalam
 
 - [Template Method](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Template%20Method)
 - [Chain of Responsibility](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Chain%20of%20Responsibility)
-- Strategy
+- [Strategy](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Strategy)
 - Command
 - Memento
 - Mediator

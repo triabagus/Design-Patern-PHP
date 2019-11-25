@@ -37,7 +37,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - [Proxy](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Proxy)
 - [Facade](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Facade)
 - [Flyweight](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Flyweight)
-- Bridge
+- [Bridge](https://github.com/triabagus/Design-Patern-PHP/tree/master/3.Structural%20Pattern/Bridge)
 
 ## Behavioral Pattern (Pola Perilaku)
 - [Template Method](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Template%20Method)

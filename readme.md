@@ -41,6 +41,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 
 ## Behavioral Pattern (Pola Perilaku)
 - [Template Method](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Template%20Method)
+- [Chain of Responsibility](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Chain%20of%20Responsibility)
 - Strategy
 - Command
 - Memento
@@ -48,7 +49,6 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - State
 - Observer
 - Iterator
-- Chain of Responsibility
 - Interpreter
 - Visitor
 
@@ -64,5 +64,6 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 5. [Design-Patern-gak-penting-tapi-butuh-dan-harus-mengerti](https://www.youtube.com/watch?v=zD-bTMojnaM&list=PL-CtdCApEFH_yiziXrQeogYOJzCmD8XLM)
 6. [Source-Making-Advance-design-patern](https://sourcemaking.com/design_patterns)
 7. [Design-patern-ebooks](https://refactoring.guru/design-patterns/book)
+8. [Example Design Pattern PHP](https://github.com/ehsangazar/design-patterns-php)
 # Author
 &copy; [triabagus](https://github.com/triabagus/roadmap-backend)

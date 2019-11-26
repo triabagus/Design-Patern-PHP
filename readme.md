@@ -44,7 +44,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - [Chain of Responsibility](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Chain%20of%20Responsibility)
 - [Strategy](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Strategy)
 - [Command](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Command)
-- Memento
+- [Memento](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Memento)
 - Mediator
 - State
 - Observer

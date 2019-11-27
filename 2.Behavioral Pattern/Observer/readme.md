@@ -1,5 +1,5 @@
 # Observer (Pengamat)
-Pola desain perilaku yang memungkinkan anda menentukan mekanisme berlanganan untuk memberi tahu beberapa objek tentang peristiwa apapun ynag terjadi pada objek yang mereka amati.
+Pola desain perilaku yang memungkinkan anda menentukan mekanisme berlanganan untuk memberi tahu beberapa objek tentang peristiwa apapun yang terjadi pada objek yang mereka amati.
 
 ![alt text](https://github.com/triabagus/Design-Patern-PHP/blob/master/image/observer.png)
 

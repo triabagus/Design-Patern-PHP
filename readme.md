@@ -48,7 +48,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - [Mediator](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Mediator)
 - [State](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/State)
 - [Observer](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Observer)
-- Iterator
+- [Iterator](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Iterator)
 - Interpreter
 - Visitor
 

@@ -49,7 +49,7 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - [State](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/State)
 - [Observer](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Observer)
 - [Iterator](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Iterator)
-- Interpreter
+- [Interpreter](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Interpreter)
 - [Visitor](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Visitor)
 
 ## Additional Structure Patern (Pola Structure Tambahan)

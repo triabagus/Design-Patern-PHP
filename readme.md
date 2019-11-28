@@ -51,11 +51,11 @@ Didalam buku "Design Patterns: Elements of Reusable Object-Oriented Software" ol
 - [Iterator](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Iterator)
 - [Interpreter](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Interpreter)
 - [Visitor](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Visitor)
-
+- [Null Object](https://github.com/triabagus/Design-Patern-PHP/tree/master/2.Behavioral%20Pattern/Null%20Object)
 ## Additional Structure Patern (Pola Structure Tambahan)
 
 - [Object Pool | Creational Patern](https://github.com/triabagus/Design-Patern-PHP/tree/master/1.Creational%20Pattern/Object%20Pool)
-- Repository | Data Access Object
+- [Repository Pattern | Data Access Object](https://github.com/triabagus/DesainPatern)
 # Reverensi
 1. [design-patern-php-read](https://designpatternsphp.readthedocs.io/en/latest/Creational/AbstractFactory/README.html)
 2. [Apa-itu-Design-Pattern](http://maulidangames.com/artikel/Mengenal-Design-Pattern/64.html)
